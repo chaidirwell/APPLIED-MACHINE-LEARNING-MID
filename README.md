@@ -48,5 +48,31 @@ Berdasarkan analisis *Feature Importance*, faktor-faktor Sosio-Ekonomi dan Lingk
 * **Visualisasi:** Lihat `Visualisasi/feature_importance_reg.png` untuk peringkat lengkap.
 
 ---
+---
+
+## 🚀 Instruksi Menjalankan Deployment (Gradio)
+
+### 1. Prasyarat
+
+Pastikan semua pustaka yang diperlukan terinstal:
+```bash
+pip install pandas scikit-learn joblib openpyxl gradio
+2. Eksekusi
+Pastikan file model (.pkl) berada di folder Model/.
+
+Jalankan file deployment Gradio (app.py) dari terminal di direktori utama:
+
+Bash
+
+python Deployment/app.py
+Akses link lokal atau link publik yang diberikan oleh Gradio untuk menggunakan interface prediksi skor secara interaktif.
+
+Tugas Besar Applied Machine Learning
+
+Dibuat oleh: Muh. Chaidir Rijal
+
+NIM: 105841107523
+
+Tanggal Pengiriman: 6 Desember 2025
 
 ## 📚 Struktur Repositori
