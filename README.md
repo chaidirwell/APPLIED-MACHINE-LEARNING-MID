@@ -47,6 +47,7 @@ Berdasarkan analisis *Feature Importance*, faktor-faktor Sosio-Ekonomi dan Lingk
     3.  **`WEL`** (Dukungan dan Kebutuhan Belajar Siswa)
 * **Visualisasi:** Lihat `Visualisasi/feature_importance_reg.png` untuk peringkat lengkap.
 
+## 📚 Struktur Repositori
 ---
 ---
 
@@ -75,4 +76,3 @@ NIM: 105841107523
 
 Tanggal Pengiriman: 6 Desember 2025
 
-## 📚 Struktur Repositori
