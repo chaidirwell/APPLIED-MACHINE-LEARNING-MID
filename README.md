@@ -57,7 +57,7 @@ Berdasarkan analisis *Feature Importance*, faktor-faktor Sosio-Ekonomi dan Lingk
 Dataset yang digunakan dalam proyek ini adalah data terbuka dari Kementerian Pendidikan dan Kebudayaan:
 
 * **Nama Dataset:** Rapor Publik Asesmen Nasional 2024 - Peserta Didik
-* **Sumber Resmi:** [https://data.kemendikbud.go.id/dataset/rapor-publik-asesmen-nasional-2024-peserta-didik-2024-indonesia [(https://data.kemendikdasmen.go.id/dataset/pendidikan-2)]
+* **Sumber Resmi:**[(https://data.kemendikdasmen.go.id/dataset/pendidikan-2)]
 * **Format:** XLSX (Diolah menjadi CSV untuk *Notebook*)
 
 ---
